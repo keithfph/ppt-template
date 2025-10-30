@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "shapes": [
+        {
+          "type": "Title",
+          "text": "<title_text>"
+        },
+        {
+          "type": "TextBox",
+          "text": "<subtitle_text>"
+        }
+      ]
+    },
+    {
+      "shapes": [
+        {
+          "type": "Title",
+          "text": "<slide2_title>"
+        },
+        {
+          "type": "BulletList",
+          "items": ["<point1>", "<point2>"]
+        }
+      ]
+    }
+  ]
+}
